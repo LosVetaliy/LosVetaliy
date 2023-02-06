@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Dima.
+#### I'm a student frontend developer.
 
-<!--
-**LosVetaliy/LosVetaliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Now you can find two of my educational projects, and a couple of pet-projects that I do in my free time.
 
-Here are some ideas to get you started:
+Skills: JS / HTML5 / CSS3 / JEST / GIT / HTTP 1.0/1.1 / Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning React, Webpack and Bootstrap.
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>]( https://t.me/los_vetaliy)  
+
